@@ -1,0 +1,36 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#gameDiv{
+    font-family: 'Brush Script MT', cursive;
+    padding: 10px;
+    text-align: center;
+    margin: 10%;
+    margin-top: 12%;
+}
+#playerText{
+    color: rgb(83, 83, 209);
+    font-size: 60px;
+}
+#computerText{
+    color: rgb(158, 35, 35);
+    font-size: 60px;
+}
+
+#resultText {
+    color: rgb(119, 119, 119);
+    font-size: 60px;
+}
+
+.choiceBtn {
+ background-color: rgb(201, 198, 198);
+ padding: 8px;
+ border-color: white;
+ border-radius: 20px;
+ margin: 40px 10px 0 10px;
+ color: white;
+ font-weight: 900;
+ font-size: 40px;
+ padding: 20px;
+}
